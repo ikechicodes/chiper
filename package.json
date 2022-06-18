@@ -3,19 +3,40 @@
     "displayName": "Chiper",
     "description": "Flat and minimal themes!",
     "version": "0.0.1",
+    "publisher": "Hebrasco",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hebrasco/chiper"
+    },
+    "homepage": "https://daniel-bedrich.dev",
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "macos",
+        "minimal",
+        "flat",
+        "simple"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Hebrasco",
+                "label": "Chiper",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Hebrasco-color-theme.json"
+                "path": "./themes/color/Hebrasco-color-theme.json"
             }
-        ]
+        ],
+		"iconThemes": [
+			{
+				"id": "chiper-big-sur-icon-theme",
+				"label": "Big Sur Icons",
+				"path": "./themes/icon/big-sur/big-sur.json"
+			}
+		]
     }
 }
