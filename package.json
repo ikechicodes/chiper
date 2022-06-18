@@ -1,0 +1,21 @@
+{
+    "name": "chiper",
+    "displayName": "Chiper",
+    "description": "Flat and minimal themes!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hebrasco",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hebrasco-color-theme.json"
+            }
+        ]
+    }
+}
