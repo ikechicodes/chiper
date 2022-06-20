@@ -140,6 +140,7 @@
 		"statusBar.debuggingBackground": "#303136",
 		"statusBar.debuggingBorder": "#303136",
 		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.focusBorder": "#303136",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#303136",
 		"statusBar.noFolderBorder": "#303136",
@@ -375,15 +376,6 @@
 				"foreground": "#d8c87c"
 			}
 		},
-		// {
-		// 	"name": "Object",
-		// 	"scope": [
-		// 		"variable.other.object"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#abf2e4"
-		// 	}
-		// },
 		{
 			"name": "Operator",
 			"scope": [
