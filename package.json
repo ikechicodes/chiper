@@ -2,7 +2,7 @@
     "name": "chiper",
     "displayName": "Chiper",
     "description": "Flat and minimal themes!",
-    "icon": "images/icon/icon.png",
+    "icon": "assets/icon/icon.png",
     "version": "0.0.1",
     "preview": true,
     "publisher": "Hebrasco",
