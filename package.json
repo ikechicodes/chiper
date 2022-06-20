@@ -2,7 +2,9 @@
     "name": "chiper",
     "displayName": "Chiper",
     "description": "Flat and minimal themes!",
+    "icon": "images/icon/icon.png",
     "version": "0.0.1",
+    "preview": true,
     "publisher": "Hebrasco",
     "repository": {
         "type": "git",
@@ -26,14 +28,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Chiper",
+                "label": "Chiper - MacOS White Accent",
                 "uiTheme": "vs-dark",
-                "path": "./themes/color/Hebrasco-color-theme.json"
+                "path": "./themes/color/macos/macos-white-accent.json"
             }
         ],
 		"iconThemes": [
 			{
-				"id": "chiper-big-sur-icon-theme",
+				"id": "chiper-big-sur-icons",
 				"label": "Big Sur Icons",
 				"path": "./themes/icon/big-sur/big-sur.json"
 			}
