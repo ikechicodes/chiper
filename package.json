@@ -3,7 +3,7 @@
     "displayName": "Chiper",
     "description": "Flat and minimal themes!",
     "icon": "assets/icon/icon.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "preview": true,
     "publisher": "Hebrasco",
     "repository": {
@@ -38,12 +38,12 @@
                 "path": "./themes/color/macos/macos-blue-accent.json"
             }
         ],
-		"iconThemes": [
-			{
-				"id": "chiper-big-sur-icons",
-				"label": "Big Sur Icons",
-				"path": "./themes/icon/big-sur/big-sur.json"
-			}
-		]
+        "iconThemes": [
+            {
+                "id": "chiper-big-sur-icons",
+                "label": "Big Sur Icons",
+                "path": "./themes/icon/big-sur/big-sur.json"
+            }
+        ]
     }
 }
