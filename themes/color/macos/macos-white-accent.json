@@ -48,7 +48,7 @@
 		"editorHint.foreground": "#ffc400",
 		"editorInfo.border": "#ff000000",
 		"editorInfo.foreground": "#6ed16d",
-		"editorIndentGuide.background": "#242529",
+		"editorIndentGuide.background": "#ffffff0e",
 		"editorIndentGuide.activeBackground": "#ffffff25",
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editorLineNumber.foreground": "#747478",
@@ -111,7 +111,7 @@
     "panel.border": "#303136",
 		"panelTitle.activeBorder": "#242529",
 		"panelTitle.activeForeground": "#ffffff",
-		"panelTitle.inactiveForeground": "#ffffff",
+		"panelTitle.inactiveForeground": "#ffffff8f",
 		"peekView.border": "#ffffff",
 		"peekViewEditor.background":"#242529",
 		"peekViewEditor.matchHighlightBackground": "#ffffff25",
@@ -124,7 +124,7 @@
 		"peekViewResult.fileForeground": "#ffffff",
 		"peekViewResult.lineForeground": "#ffffff",
 		"progressBar.background": "#ffffff",
-		"scrollbar.shadow": "#303136",
+		"scrollbar.shadow": "#ffffff00",
 		"scrollbarSlider.activeBackground": "#ffffff8f",
 		"scrollbarSlider.background": "#ffffff1c",
 		"scrollbarSlider.hoverBackground": "#ffffff8f",
@@ -147,8 +147,9 @@
 		"statusBar.noFolderForeground": "#ffffff",
 		"statusBarItem.activeBackground": "#303136",
 		"statusBarItem.hoverBackground": "#303136",
-		"tab.activeBackground": "#303136",
-		"tab.activeBorder": "#303136",
+		"tab.activeBackground": "#ffffff",
+		"tab.activeBorder": "#ffffff",
+		"tab.activeForeground": "#000000",
 		"tab.border": "#303136",
 		"tab.inactiveBackground": "#303136",
 		"tab.inactiveForeground": "#b7b7b7",
@@ -435,7 +436,8 @@
 			"name": "Variable",
 			"scope": [
 				"variable.other.readwrite",
-				"variable.other.constant"
+				"variable.other.constant",
+				"variable.other.object",
 			],
 			"settings": {
 				"foreground": "#ffffffd9"

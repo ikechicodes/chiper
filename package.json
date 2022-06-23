@@ -37,13 +37,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/color/macos/macos-blue-accent.json"
             }
-        ],
-        "iconThemes": [
-            {
-                "id": "chiper-big-sur-icons",
-                "label": "Big Sur Icons",
-                "path": "./themes/icon/big-sur/big-sur.json"
-            }
         ]
     }
 }

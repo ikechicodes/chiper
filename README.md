@@ -32,16 +32,20 @@
   "window.nativeTabs": true,
   "editor.wordWrap": "on",
   "workbench.iconTheme": "chiper-big-sur-icons",
-  "workbench.productIconTheme": "fluent-icons",
+  "workbench.productIconTheme": "fluent-icons",,
+  "workbench.editor.tabCloseButton": "left",
+  "window.autoDetectColorScheme": true,
+  "explorer.decorations.colors": false,
+  "workbench.editor.decorations.colors": false,
+  "workbench.editor.decorations.badges": false
 ```
 
 ### Extensions
 
-- ErrorLens
-- Fluent Icons
+- [ErrorLens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
+- [Sharp Icons](https://marketplace.visualstudio.com/items?itemName=CiberTurtle.sharp-icons)
 
 ---
 
 Inspired by [MacOS Modern Theme](https://marketplace.visualstudio.com/items?itemName=davidbwaters.macos-modern-theme) by davidbwaters
-
-Icons by [MacOS Modern Theme](https://marketplace.visualstudio.com/items?itemName=davidbwaters.macos-modern-theme) by davidbwaters
