@@ -2,6 +2,9 @@
 
 ## Previews
 
+0.0.4
+- Update screenshots
+
 0.0.3
 - Update active tab colors
 - Update inactive panel title color
