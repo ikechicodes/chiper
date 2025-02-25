@@ -51,6 +51,12 @@
                 "label": "Chiper - MacOS Purple Accent",
                 "uiTheme": "vs-dark",
                 "path": "./themes/color/macos/macos-purple-accent.json"
+            },
+            {
+                "label": "Chiper - MacOS Yellow Accent",
+                "uiTheme": "vs-dark",
+                "path": "./themes/color/macos/macos-yellow-accent.json"
+            },
             }
         ]
     }
