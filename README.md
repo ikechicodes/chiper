@@ -10,7 +10,24 @@
 
 *White Accent*
 ![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/white-accent/ts.png)
-![MacOS White Accent CSS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/white-accent/css.png)
+
+*Green Accent*
+![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/green-accent/ts.png)
+
+*Pink Accent*
+![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/pink-accent/ts.png)
+
+*Purple Accent*
+![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/purple-accent/ts.png)
+
+*Red Accent*
+![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/red-accent/ts.png)
+
+*Teal Accent*
+![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/teal-accent/ts.png)
+
+*Yellow Accent*
+![MacOS White Accent TS](https://github.com/Hebrasco/chiper/raw/master/assets/macos/yellow-accent/ts.png)
 
 ## Recommendations
 
