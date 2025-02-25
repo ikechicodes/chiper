@@ -41,6 +41,11 @@
                 "label": "Chiper - MacOS Red Accent",
                 "uiTheme": "vs-dark",
                 "path": "./themes/color/macos/macos-red-accent.json"
+            },
+            {
+                "label": "Chiper - MacOS Green Accent",
+                "uiTheme": "vs-dark",
+                "path": "./themes/color/macos/macos-green-accent.json"
             }
         ]
     }
