@@ -57,6 +57,10 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/color/macos/macos-yellow-accent.json"
             },
+            {
+                "label": "Chiper - MacOS Pink Accent",
+                "uiTheme": "vs-dark",
+                "path": "./themes/color/macos/macos-pink-accent.json"
             }
         ]
     }
