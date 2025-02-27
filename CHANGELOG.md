@@ -2,6 +2,18 @@
 
 ## Previews
 
+1.0.1
+- Fixed highlight colors making text unreadable
+
+1.0.0
+- Added green theme
+- Added pink theme
+- Added purple theme
+- Added red theme
+- Added teal theme
+- Added yellow theme
+- Updated highlight colors
+
 0.0.4
 - Update screenshots
 
